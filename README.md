@@ -21,7 +21,7 @@
 
 # DATA :
  
- * The data we have used here is from https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks.
+ * The data we have used here is from kaggle
  * The file contains more than 160,000 songs collected from Spotify Web API, and also you can find data grouped by artist, year, or genre in the data section.
  * It has features like acousticness, energy, loudness and danceability which make the clustering algorithm work more effectively.
  
