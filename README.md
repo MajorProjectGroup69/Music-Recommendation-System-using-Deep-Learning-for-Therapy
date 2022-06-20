@@ -1,4 +1,4 @@
-# Emotion based Music Recommender System😁😥🥰😫.
+# Music Recommendation System Using Deep Learning for Therapy 
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
